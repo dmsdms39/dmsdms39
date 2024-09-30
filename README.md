@@ -1,10 +1,11 @@
 ### Hi there 👋
 #
 
-- 🌱 I’m currently learning Spring/Java and Computer Science.
-- 👯 Experienced Backend Engineer/Developer with over 1 years of experience in IT company of EMS(Enterprise Management System).
+- 🔭 I’m currently working on IT company of AI based app service.
+- 🌱 I’m currently learning Spring/Java and Data Science.
+- 👯 Experienced Backend Engineer/Developer with over 3 years of experience in IT company.
 - 💬 Great reputation for programming skills, algorithm and computational thinking.
-- 🤔 To seek and maintain a job position that offers professional challenges utilizing programming skills, excellent learning agility and problem-solving skills.
+- 🤔 To seek and maintain a job position that offers professional challenges utilizing programming skills, learning agility and problem-solving skills.
 
 #
 
