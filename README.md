@@ -1,7 +1,7 @@
 ### Hi there 👋
 #
 
-- 🔭 I’m currently working on IT company of AI based app service.
+- 🔭 I’m currently working on AI based app service IT company.
 - 🌱 I’m currently learning Spring/Java and Data Science.
 - 👯 Experienced Backend Engineer/Developer with over 3 years of experience in IT company.
 - 💬 Great reputation for programming skills, algorithm and computational thinking.
