@@ -1,7 +1,7 @@
 ### Hi there 👋
 #
 
-- 🌱 I'm currently learning data processing tools, including Apache Kafka, Elasticsearch, Apache Spark, as well as Kubernetes. These technologies are critical skills for managing, scaling, and analyzing data.
+- 🌱 I'm currently learning data processing tools, including Apache Kafka, Elasticsearch, Apache Spark, as well as Kubernetes.
 - 🔭 Experienced Backend Engineer/Developer with over 3 years of experience in IT company based on AI.
 - 🤔 Equipped with strong problem-solving abilities, willingness to learn, and excellent communication skills. Poised to contribute to team success and achieve positive results. 
 - 💬 To seek and maintain a job position that offers professional challenges utilizing programming skills, learning agility and problem-solving skills. 👯 Ready to tackle new challenges and advance organizational objectives with dedication and enthusiasm.
