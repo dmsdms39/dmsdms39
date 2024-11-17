@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 #
 
@@ -7,7 +8,7 @@
 - 💬 To seek and maintain a job position that offers professional challenges utilizing programming skills, learning agility and problem-solving skills. 👯 Ready to tackle new challenges and advance organizational objectives with dedication and enthusiasm.
 
 #
-
+-->
 ### Github Statistics⚡:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsdms39&hide=stars&show_icons=true&theme=dracula)
